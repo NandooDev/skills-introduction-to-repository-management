@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @NandooDev
+/src/backend/database.py      @NandooDev
+/src/backend/routers/auth.py  @NandooDev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @NandooDev
